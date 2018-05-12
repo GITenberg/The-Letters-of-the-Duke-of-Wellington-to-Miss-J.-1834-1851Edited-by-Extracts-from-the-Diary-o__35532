@@ -1,0 +1,38 @@
+_repo: The-Letters-of-the-Duke-of-Wellington-to-Miss-J.-1834-1851Edited-by-Extracts-from-the-Diary-o__35532
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wellington, Arthur Wellesley, Duke of
+    aliases:
+    - Wesley, Arthur, Duke of Wellington
+    - Wellesley, Arthur, Duke of Wellington
+    birthdate: 1769
+    deathdate: 1852
+    gutenberg_agent_id: '5951'
+    url: http://www.gutenberg.org/2009/agents/5951
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington
+  editor:
+    agent_name: Herrick, Christine Terhune
+    birthdate: 1859
+    deathdate: 1944
+    gutenberg_agent_id: '37734'
+    url: http://www.gutenberg.org/2009/agents/37734
+    wikipedia: http://en.wikipedia.org/wiki/Christine_Terhune_Herrick
+description: ''
+gutenberg_issued: '2011-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35532'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wellington, Arthur Wellesley, Duke of, 1769-1852 -- Correspondence'
+- !lcc 'DA'
+title: "The Letters of the Duke of Wellington to Miss J., 1834-1851\r\nEdited, with\
+  \ Extracts from the Diary of the Latter"
+url: http://www.gutenberg.org/ebooks/35532
